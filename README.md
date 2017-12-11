@@ -1,7 +1,7 @@
 安装方法:
-
-conposer install gclinux/think-paginate-layui-style
-
+```
+conposer require gclinux/think-paginate-layui-style
+```
 使用方法:
 
 修改您的配置文件,默认为应用目录下的 config.php
