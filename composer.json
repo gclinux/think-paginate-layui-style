@@ -1,0 +1,20 @@
+{
+    "name": "gclinux/think-paginate-layui-style",
+    "type": "library",
+    "description": "用于修正layui 2.0分页样式与thinkphp分页样式的兼容",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "gclinux",
+            "email": "os.debian@gmail.com"
+        }
+    ],
+    "require": {
+    },
+
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
